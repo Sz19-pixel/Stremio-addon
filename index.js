@@ -36,4 +36,5 @@ app.use(addonInterface);
 app.listen(port, () => {
   console.log(`Addon running at http://localhost:${port}/manifest.json`);
   console.log('Supported sites: Pstream, Vidora, Nunflix, Embed.su');
+  module.exports = app; // أضف هذا السطر في النهاية
 });
