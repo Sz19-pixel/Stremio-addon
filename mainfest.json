@@ -1,0 +1,11 @@
+{
+  "id": "com.arabic.httpstream",
+  "version": "1.0.0",
+  "name": "Arabic HTTP Stream",
+  "description": "Addon for streaming Arabic movies/series from Pstream, Vidora, Nunflix & Embed.su",
+  "types": ["movie", "series"],
+  "catalogs": [],
+  "resources": ["stream"],
+  "idPrefixes": ["tt"],
+  "logo": "https://i.imgur.com/4M7IiMD.png"
+}
