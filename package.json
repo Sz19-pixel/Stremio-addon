@@ -1,0 +1,17 @@
+{
+  "name": "stremio-http-stream-addon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "axios": "^1.9.1",
+    "express": "^4.18.2",
+    "cheerio": "^1.0.0-rc.12",
+    "m3u8-parser": "^0.3.1",
+    "cors": "^2.8.5",
+    "user-agents": "^1.0.1184"
+  }
+}
